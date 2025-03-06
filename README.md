@@ -26,6 +26,10 @@ Determine the most rented movie categories and ratings to maximize revenue.
 
 Help track and manage movie inventory effectively.
 Highlight gaps in the inventory and optimize stock levels.
+
+# Tools & Library Used
+<img src="./IMAGES/mysql_img.png" alt="mysql_img.png" width="200"/> &nbsp;
+
 # Query Task
 
 1. "How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?"
