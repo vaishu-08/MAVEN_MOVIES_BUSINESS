@@ -28,7 +28,7 @@ Help track and manage movie inventory effectively.
 Highlight gaps in the inventory and optimize stock levels.
 
 # Tools & Library Used
-<img src="./IMAGES/mysql_img.png" alt="mysql_img.png" width="200"/> &nbsp;
+<img src="./IMAGES/IMG_MYSQL.jpg" alt="mysql_img.png" width="400"/> &nbsp;
 
 # Query Task
 
