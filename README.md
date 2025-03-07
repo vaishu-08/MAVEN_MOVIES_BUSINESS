@@ -18,7 +18,7 @@ Analyze customer rental patterns to improve customer engagement.
 Explore the rental inventory and classify movies based on rental rates and availability.
 Provide recommendations for expanding the movie collection based on popularity and rental rates.
 
-Revenue Optimization:
+#### Revenue Optimization:
 - Assess movie inventory by classifying films based on rental rates, availability, and popularity.  
 - Provide recommendations for expanding the movie collection based on rental demand and performance
 ### Operational Efficiency:
