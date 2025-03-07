@@ -4,7 +4,7 @@ Data analysis of movies CD/DVD rental (transactions) and inventory
 # Maven Movies Data Analysis: Enhancing Insights for a Rental Business
 
 ## Project Overview:
-This project analyzes a movie rental business's database to provide actionable insights for improving operations, marketing strategies, and inventory management. The dataset is hosted in the MAVENMOVIES database, and SQL was extensively used for exploratory data analysis (EDA), schema understanding, and answering business-critical ad-hoc queries.
+This project involves analyzing a movie rental business database to derive actionable insights that enhance operational efficiency, marketing strategies, and inventory management. The analysis is conducted on the MAVENMOVIES database using SQL for exploratory data analysis (EDA), schema understanding, and addressing business-critical ad-hoc queries.
 
 ## Project Objectives:
 
@@ -17,11 +17,10 @@ Analyze customer rental patterns to improve customer engagement.
 
 Explore the rental inventory and classify movies based on rental rates and availability.
 Provide recommendations for expanding the movie collection based on popularity and rental rates.
+
 Revenue Optimization:
-
-Analyze rental rates to identify trends and the profitability of various pricing categories.
-Determine the most rented movie categories and ratings to maximize revenue.
-
+- Assess movie inventory by classifying films based on rental rates, availability, and popularity.  
+- Provide recommendations for expanding the movie collection based on rental demand and performance
 ### Operational Efficiency:
 
 Help track and manage movie inventory effectively.
